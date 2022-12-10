@@ -1,4 +1,4 @@
-![I am a MERN Stack Developer from Bangladesh](https://media-exp1.licdn.com/dms/image/D5603AQFjXeFJo_UJ-A/profile-displayphoto-shrink_400_400/0/1670014824890?e=1675296000&v=beta&t=TE-c1nsisT4LDIwmukQn48a1XANxleZMHbD9aT9pMf4)
+![I am a MERN Stack Developer from Bangladesh](https://media-exp1.licdn.com/dms/image/D5616AQGHlDV-x39Nzg/profile-displaybackgroundimage-shrink_350_1400/0/1670708023291?e=1675900800&v=beta&t=FQOPXkcwC96AE0C8D3PW-hQNn1IAmH6R2Sbp-O52C20)
 
 ### Hi there 👋, I'm Shapna Akter
 #### I am a MERN Stack Developer from Bangladesh
