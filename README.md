@@ -5,7 +5,7 @@
 
 I am a MERN Stack Developer who is passionate and dedicated to her work. I have a passion for learning new technologies and develop my skills.
 
-Skills: REACT / JS / HTML / CSS/ Bootstrap/ Node.js/ Express.js/ Firebase/ MongoDB
+Skills: HTML / CSS/ Bootstrap / JS / REACT / TailwindCss/ Nextjs / Node.js/ Express.js/ Firebase/ MongoDB / TypeScript
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React 
