@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-56971.web.app/](https://personal-portfolio-56971.web.app/)
 
-- 💬 Ask me about **JavaScript, react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **shapna.akter0622@gmail.com**
 
