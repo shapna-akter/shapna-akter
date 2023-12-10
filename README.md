@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/shapna-akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shapna-akter" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,express,figma,firebase,git,github,html,js,mongodb,netlify,nextjs,nodejs,postman,react,redux,tailwind,ts,vercel,vscode" />
