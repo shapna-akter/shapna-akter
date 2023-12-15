@@ -42,9 +42,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shapna-akter" alt="shapna-akter" /></a> </p>
 
 ### 💼 &nbsp; Employment History
-1. Frontend Developer (February 2022 - Present)  
+1. Frontend Developer (February 2023 - Present)  
 Tangle, Remote, USA
-2. Associate Application Developer ( December 2022 - February 2022)  
+2. Associate Application Developer ( December 2022 - February 2023)  
 Quencil Tech Training, Remote, India
 
 ### 👨🏻‍🎓 &nbsp; Courses and Certificate
