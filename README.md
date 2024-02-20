@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next level Web Development at Programming Hero**
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-56971.web.app/](https://personal-portfolio-56971.web.app/)
+- 👨‍💻 All of my projects are available at [https://delightful-marzipan-e22e5f.netlify.app/](https://delightful-marzipan-e22e5f.netlify.app/)
 
 - 💬 Ask me about **React**
 
